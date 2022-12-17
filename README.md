@@ -13,3 +13,5 @@ This project is about displaying the data of chicago, new_york_city and washingt
 - new_york_city.csv
 - washington.csv
 
+## Credits
+This project is from Udacity
